@@ -40,12 +40,12 @@ F20 "col13" T T 5050 4900 50
 F21 "col14" T T 4950 4900 50 
 $EndSheet
 $Comp
-L keebio:ProMicro U1
+L keebio:ProMicro U?
 U 1 1 5ED65F82
 P 5700 3500
-F 0 "U1" H 5700 4337 60  0000 C CNN
+F 0 "U?" H 5700 4337 60  0000 C CNN
 F 1 "ProMicro" H 5700 4231 60  0000 C CNN
-F 2 "Keebio-Parts:ArduinoProMicro" V 6750 1000 60  0001 C CNN
+F 2 "" V 6750 1000 60  0001 C CNN
 F 3 "" V 6750 1000 60  0001 C CNN
 	1    5700 3500
 	1    0    0    -1  
